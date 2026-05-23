@@ -18,4 +18,4 @@ Unlike traditional data science workflows that ingest static, pre-existing datab
 
 ## Repository Structure
 
-The repository is organized by laboratory modules, with each subdirectory containing the respective computational scripts and documentation:
+The repository is organized by laboratory modules, with each subdirectory containing the respective computational scripts and documentation.
